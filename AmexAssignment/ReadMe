@@ -1,0 +1,5 @@
+1. Created CommandScheduler class
+2. Create  command.txt file on below folder
+     => D:\\tmp\\commands.txt
+3. I have attach  commands.txt  file as request on project.
+4. I have attach  Output.txt  file as output on project.

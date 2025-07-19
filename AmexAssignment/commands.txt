@@ -1,0 +1,5 @@
+10 12 19 7 2025 date && echo "At Amex, We Do What's Right."
+10 12 19 7 2025 date && echo "At Amex, We Do What's Right For client."
+*/1 date && echo "Amex' motto is 'Don't live life without it!'"
+*/3 date && echo "Amex was founded in 1850."
+*/6 date && echo "Amex is headquartered in New York"
